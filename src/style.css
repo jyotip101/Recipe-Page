@@ -65,8 +65,7 @@ header .text p {
     margin: 0 0 0.5rem 0;
 }
 
-.checkbox-items .checkbox input{
-    
+.checkbox-items .checkbox input{ 
     margin: 2px 10px 0 0;
     outline: none;
 }

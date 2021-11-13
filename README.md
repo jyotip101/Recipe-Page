@@ -34,15 +34,14 @@
 <!-- OVERVIEW -->
 
 ## Overview
-  
+  ![recapi1](https://user-images.githubusercontent.com/66724598/141652157-73a1db36-6cbe-4f41-b723-ca973e9648ed.png)
+![recapi2](https://user-images.githubusercontent.com/66724598/141652160-189d7856-81af-405a-b108-af2cccae0bb5.png)
 
   ### Built With
  
-
 - HTML
 - CSS
 - [Google font](https://fonts.google.com/) 
-
 
 ## Features
 
@@ -53,3 +52,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - Website [jyotip](https://jyotip.netlify.app/)
 - GitHub [@jyotip101](https://github.com/jyotip101/) 
+- Twitter [@jyotipatil77100](https://twitter.com/jyotipatil77100/)
