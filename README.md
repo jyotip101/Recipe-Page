@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="">
+    <a href="https://jyotip101.github.io/Recipe-Page/">
       Demo
     </a>
     <span> | </span>
@@ -41,7 +41,7 @@
 
 - HTML
 - CSS
-- [Google font](https://fonts.googleapis.com/css2?family=Londrina+Outline&family=Montserrat:wght@100&display=swap) 
+- [Google font](https://fonts.google.com/) 
 
 
 ## Features
